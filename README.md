@@ -1,2 +1,3 @@
 # MyFirstProject
-/New notes
+/ New notes
+/ New notes pt. 2
